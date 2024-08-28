@@ -1,4 +1,10 @@
+This is an experimental user interface to interact with an LLM 
+
+https://user-images.githubusercontent.com/yashn35/LLM-react/raw/main/frontend.webm
+
 # Getting Started with Create React App
+
+<ADD DEMO HERE>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
